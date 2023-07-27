@@ -1,0 +1,1 @@
+<div id="footer"><small><p>Sistem Pendukung Keputusan  -  &copy; Rekayasa Keamanan Siber Polibest Salatiga</p></small></div>
